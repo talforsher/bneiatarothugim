@@ -196,7 +196,7 @@ function save() {
     <style>
         body {
             margin: 0;
-            background: url("load.png");
+            background: url("load.svg");
             background-size: cover;
         }
 
